@@ -1,2 +1,2 @@
-# ACSL_Contest1
-Code for ACSL Contest 1, with brief
+# ACSL_Contests
+Code for ACSL Contests, with contest briefs
